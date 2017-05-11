@@ -1,0 +1,29 @@
+<!Doctype html>
+
+<html>
+<head>
+<title> Using Tags </title>
+</head>
+
+<body>
+<h1> My page </h1>
+<ul>
+<li>Purple</li>
+<li>Pink</li>
+<li>Blue</li>
+</ul>
+
+<ol type="1">
+<li>Peak</li>
+<li>Mountain</li>
+<li>Mount Everest</li>
+</ol>
+<br> i have created a new page with tags
+<br>
+
+<image width="500" height="500" src="H:\Github Work\Lecture 01\a.jpg" />
+
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> My form</title>
+<body>
+<form>
+       Name:
+<input type="text" name="Name"><br>
+       Email:
+<input type="text" name="Email"><br>
+Contact Info:
+<input type="text" name="Contact Info"><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
